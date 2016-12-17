@@ -1,0 +1,23 @@
+{
+    "name": "ehdev/ciutility",
+    "description": "Utilities and scripts for continuous integration (testing, PHPCS...)",
+    "homepage": "https://github.com/RocKordier/CIUtility",
+    "keywords": ["CI", "Testing", "PHPUnit", "PHPCS"],
+    "license": "OSL-3.0",
+    "authors": [
+        {
+            "name": "[RocKordier] Eric Hertwig",
+            "homepage": "http://eric-hertwig.de"
+        }
+    ],
+    "autoload": {
+        "psr-0": {
+            "EHDev\\Utility\\CIUtility": "src/"
+        }
+    },
+    "target-dir": "src/",
+    "require": {
+        "php": ">=5.6"
+    },
+    "minimum-stability": "stable"
+}
