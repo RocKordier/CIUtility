@@ -11,11 +11,10 @@
         }
     ],
     "autoload": {
-        "psr-0": {
-            "EHDev\\Utility\\CIUtility": "src/"
+        "psr-4": {
+            "EHDev\\Utility\\CIUtility\\": ""
         }
     },
-    "target-dir": "src/",
     "require": {
         "php": ">=5.6",
         "phpunit/phpunit": "4.8.*"
