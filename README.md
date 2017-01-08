@@ -15,7 +15,7 @@ With composer, add:
 ```json
 {
     "require" : {
-        "ehdev/CIUtility": "*"
+        "ehdev/ciutility": "*"
     }
 }
 ```

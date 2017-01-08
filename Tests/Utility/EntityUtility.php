@@ -2,12 +2,14 @@
 
 namespace EHDev\Utility\CIUtility\Tests\Utility;
 
+use PHPUnit\Framework\TestCase;
+
 /**
  * Class EntityUtility
  *
  * @package EHDev\Utility\CIUtility\Tests\Utility
  */
-class EntityUtility extends \PHPUnit_Framework_TestCase
+class EntityUtility extends TestCase
 {
     /**
      * Inspect Entity for correct setters and getters
