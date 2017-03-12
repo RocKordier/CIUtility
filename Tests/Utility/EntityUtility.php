@@ -81,6 +81,10 @@ class EntityUtility extends TestCase
             return $array['getterPrefix'];
         }
 
+        if ($this->getValue(is_bool($array))) {
+            return 'is';
+        }
+
         return 'get';
     }
 
