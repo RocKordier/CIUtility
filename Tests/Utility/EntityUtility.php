@@ -1,14 +1,8 @@
 <?php
-
 namespace EHDev\Utility\CIUtility\Tests\Utility;
 
 use PHPUnit\Framework\TestCase;
 
-/**
- * Class EntityUtility
- *
- * @package EHDev\Utility\CIUtility\Tests\Utility
- */
 class EntityUtility extends TestCase
 {
     /**
