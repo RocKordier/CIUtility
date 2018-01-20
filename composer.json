@@ -4,6 +4,7 @@
     "homepage": "https://github.com/RocKordier/CIUtility",
     "keywords": ["CI", "Testing", "PHPUnit", "PHPCS"],
     "license": "OSL-3.0",
+    "version": "0.0.1",
     "authors": [
         {
             "name": "[RocKordier] Eric Hertwig",
